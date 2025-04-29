@@ -1,4 +1,3 @@
-
 # آپتایم پلاس (Uptime Plus) 🚀
 
 <div align="center">
@@ -8,7 +7,8 @@
   
   <a href="https://uptimeplus.ir">وب‌سایت رسمی</a> •
   <a href="https://uptimeplus.ir/register">ثبت‌نام رایگان</a> •
-  <a href="https://uptimeplus.ir/login">ورود</a>
+  <a href="https://uptimeplus.ir/login">ورود</a> •
+  <a href="https://uptimeplus.ir/user_guide">راهنمای کاربر</a>
 </div>
 
 ## 📋 فهرست مطالب
@@ -29,6 +29,8 @@
 - صفحات وضعیت سفارشی برای نمایش به کاربران ایجاد کنید
 - هشدارهای فوری از طریق نوتیفیکیشن و ایمیل دریافت کنید
 - گزارش‌های تحلیلی از عملکرد سرویس‌ها دریافت کنید
+- امنیت حساب کاربری خود را با احراز هویت دو مرحله‌ای افزایش دهید
+- صفحات وضعیت را به طور کامل مطابق سلیقه خود شخصی‌سازی کنید
 
 ## 🔥 ویژگی‌ها
 
@@ -36,7 +38,7 @@
 مانیتورینگ 24/7 با امکان تنظیم بازه‌های زمانی متنوع از 1 دقیقه تا 1 ساعت
 
 ### 📊 صفحات وضعیت
-ایجاد صفحات وضعیت شخصی‌سازی شده با تم‌های مختلف
+ایجاد صفحات وضعیت شخصی‌سازی شده با تم‌های مختلف و امکانات سفارشی‌سازی پیشرفته
 
 ### 🔔 اعلان‌های هوشمند
 دریافت اعلان‌های فوری از طریق نوتیفیکیشن و ایمیل با قابلیت شخصی‌سازی
@@ -46,6 +48,12 @@
 
 ### ⚡ پایش عملکرد
 بررسی زمان پاسخ‌دهی و سرعت لود سرویس‌ها از نقاط مختلف
+
+### 🔐 امنیت پیشرفته
+احراز هویت دو مرحله‌ای برای محافظت از حساب کاربری شما
+
+### ⚙️ تنظیمات جامع
+مدیریت کامل تنظیمات حساب کاربری و سرویس‌ها
 
 ### 📱 واکنش‌گرا
 رابط کاربری واکنش‌گرا و بهینه شده برای تمام دستگاه‌ها
@@ -72,6 +80,8 @@
 - گزارش‌های 45 روزه آپتایم
 - گزارش‌های تحلیلی پیشرفته
 - پشتیبانی اختصاصی
+- شخصی‌سازی کامل استاتوس پیج‌ها
+- احراز هویت دو مرحله‌ای
 
 ## 🚀 نحوه استفاده
 
@@ -80,6 +90,9 @@
 3. سرویس‌های مورد نظر خود را اضافه کنید
 4. تنظیمات مانیتورینگ را انجام دهید
 5. (اختیاری) صفحات وضعیت ایجاد کنید
+6. (اختیاری) احراز هویت دو مرحله‌ای را فعال کنید
+
+برای اطلاعات بیشتر در مورد نحوه استفاده از سیستم، [راهنمای کاربر](https://uptimeplus.ir/user_guide) را مطالعه کنید.
 
 ## 💻 تکنولوژی‌ها
 
@@ -110,7 +123,8 @@
   
   <a href="https://uptimeplus.ir">Official Website</a> •
   <a href="https://uptimeplus.ir/register">Free Registration</a> •
-  <a href="https://uptimeplus.ir/login">Login</a>
+  <a href="https://uptimeplus.ir/login">Login</a> •
+  <a href="https://uptimeplus.ir/user_guide-en">User Guide</a>
 </div>
 
 ## 📋 Table of Contents
@@ -131,6 +145,8 @@ With Uptime Plus you can:
 - Create custom status pages to display to your users
 - Receive instant alerts via notifications and email
 - Get analytical reports on service performance
+- Enhance your account security with two-factor authentication
+- Fully customize status pages to match your preferences
 
 ## 🔥 Features
 
@@ -138,7 +154,7 @@ With Uptime Plus you can:
 24/7 monitoring with customizable time intervals from 1 minute to 1 hour
 
 ### 📊 Status Pages
-Create personalized status pages with various themes
+Create personalized status pages with various themes and advanced customization options
 
 ### 🔔 Smart Notifications
 Receive instant alerts via notifications and email with customization options
@@ -148,6 +164,12 @@ Comprehensive reports on service status with advanced charts and trend analysis
 
 ### ⚡ Performance Monitoring
 Check response time and load speed of services from different locations
+
+### 🔐 Advanced Security
+Two-factor authentication to protect your account
+
+### ⚙️ Comprehensive Settings
+Complete management of account and service settings
 
 ### 📱 Responsive
 Responsive user interface optimized for all devices
@@ -174,6 +196,8 @@ Round-the-clock support via ticket and email
 - 45-day uptime reports
 - Advanced analytical reports
 - Dedicated support
+- Full status page customization
+- Two-factor authentication
 
 ## 🚀 How to Use
 
@@ -182,6 +206,9 @@ Round-the-clock support via ticket and email
 3. Add your desired services
 4. Configure monitoring settings
 5. (Optional) Create status pages
+6. (Optional) Enable two-factor authentication
+
+For more information on how to use the system, please refer to the [User Guide](https://uptimeplus.ir/user_guide-en).
 
 ## 💻 Technologies
 
